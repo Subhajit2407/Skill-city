@@ -1,0 +1,198 @@
+[
+  {
+    "id": "video",
+    "kind": "exterior",
+    "source": "exec-842aabf5-591d-4003-8909-fd152329de28.png",
+    "asset": "public/images/districts/video/exterior.png",
+    "sha256": "4f4637e5921ce3ce960e9329aa5fc2ef978a893b98c612e0d301582a4b71bb1c"
+  },
+  {
+    "id": "design",
+    "kind": "workspace",
+    "source": "exec-6b532ef6-525d-46be-b03f-26feec1d1cd1.png",
+    "asset": "public/images/districts/design/workspace.png",
+    "sha256": "89929657df2ae9cac3079426a733ae1c4cf40a8961313e4b62f4e847d2b67c6a"
+  },
+  {
+    "id": "marketing",
+    "kind": "exterior",
+    "source": "exec-abce362c-2ef1-4873-a432-116846238530.png",
+    "asset": "public/images/districts/marketing/exterior.png",
+    "sha256": "143605e9038bce8a4db4663abfea4881d423f1bc0685b32a0330ae843911b7d5"
+  },
+  {
+    "id": "design",
+    "kind": "interior",
+    "source": "exec-6171a78e-bab5-49ca-af5a-dc303fb31971.png",
+    "asset": "public/images/districts/design/interior.png",
+    "sha256": "d3963638513525265785bccedebef16564ea10ee35fef4ae92c0075496188578"
+  },
+  {
+    "id": "marketing",
+    "kind": "interior",
+    "source": "exec-5b8e840b-9c08-43b3-90bf-4df1c42b1407.png",
+    "asset": "public/images/districts/marketing/interior.png",
+    "sha256": "ecac86571f6bc8eef6a7105f43cc539c80b8b41da4083cb41ca64d24452afa41"
+  },
+  {
+    "id": "video",
+    "kind": "workspace",
+    "source": "exec-6870febf-e8a5-4651-a526-1a63559e3853.png",
+    "asset": "public/images/districts/video/workspace.png",
+    "sha256": "30af25b930fb98d1e0448ac537835052b0c38e501c867a83f5042449a71d830b"
+  },
+  {
+    "id": "marketing",
+    "kind": "workspace",
+    "source": "exec-ac204d16-d5ac-4ec8-a04a-19468e31b253.png",
+    "asset": "public/images/districts/marketing/workspace.png",
+    "sha256": "b9c1095884e7afa964cbc939c9e150c30579f41c649217050f6ed0b75980cffb"
+  },
+  {
+    "id": "video",
+    "kind": "interior",
+    "source": "exec-0ed597e2-8ae6-4bbc-9e5e-8dac8a8e6da4.png",
+    "asset": "public/images/districts/video/interior.png",
+    "sha256": "f3669242237acc5a6c4f4632407bf701525c43ad77268de4d318cc03c9a330f9"
+  },
+  {
+    "id": "dev",
+    "kind": "exterior",
+    "source": "exec-f2e64326-5e58-4ef4-a585-3725801e3d0c.png",
+    "asset": "public/images/districts/dev/exterior.png",
+    "sha256": "dd3757e811932ed38f243cf50348023453c707ce6a45667057b76240ab5b5252"
+  },
+  {
+    "id": "design",
+    "kind": "exterior",
+    "source": "exec-fc679b94-e251-404d-a2af-295c53ee1ac7.png",
+    "asset": "public/images/districts/design/exterior.png",
+    "sha256": "6c52b796afb23d5844d9df64c0847ac0978ff2778164282147ea24c9d2a7ba5d"
+  },
+  {
+    "id": "dev",
+    "kind": "interior",
+    "source": "exec-199d2c38-fcfe-459c-8679-484721e80f44.png",
+    "asset": "public/images/districts/dev/interior.png",
+    "sha256": "dd12fd795bfed5b61bf397f13740411f7ee2079af65476c42a0f80b2170b69a0"
+  },
+  {
+    "id": "dev",
+    "kind": "workspace",
+    "source": "exec-4aa5de16-3466-419c-988b-bc979e3d7c1d.png",
+    "asset": "public/images/districts/dev/workspace.png",
+    "sha256": "facbee751a365028822828a184de4b6bc3444379bfa8a3fa6a901ce42c7ebd52"
+  },
+  {
+    "id": "research",
+    "kind": "interior",
+    "source": "exec-f742ece4-f6f1-424d-a584-c8cde322386b.png",
+    "asset": "public/images/districts/research/interior.png",
+    "sha256": "7b2d058a3a3d0190bffa13aae9425664b63d84d494baa8cda88f3959b16f83be"
+  },
+  {
+    "id": "research",
+    "kind": "workspace",
+    "source": "exec-1a29c3e9-1207-441a-b529-ca90b3fc2020.png",
+    "asset": "public/images/districts/research/workspace.png",
+    "sha256": "3cf18322cb6a20f28a99e174133bdf0eb27b3a414f598c50b19c0174841bb0e7"
+  },
+  {
+    "id": "data",
+    "kind": "exterior",
+    "source": "exec-944a7051-4db5-4cbd-8096-9ba75df76ff5.png",
+    "asset": "public/images/districts/data/exterior.png",
+    "sha256": "8022950d790f5e0c8d8917511a1f23b163d9c641845378d59a0c9cf7378d40b7"
+  },
+  {
+    "id": "research",
+    "kind": "exterior",
+    "source": "exec-c2b1a26f-2df5-461d-9818-d449236e9336.png",
+    "asset": "public/images/districts/research/exterior.png",
+    "sha256": "fad8c7b49344a4978bbf9c968d8bfa1f0f13bc2ab8b057d4b221957c83831254"
+  },
+  {
+    "id": "sales",
+    "kind": "exterior",
+    "source": "exec-c9836fd6-ea65-408b-8e2a-b632b735b5ee.png",
+    "asset": "public/images/districts/sales/exterior.png",
+    "sha256": "832af27e22d37e2f6a06cb34135ab57b8f2a03c3c4f72ebff402951a1f74f6a8"
+  },
+  {
+    "id": "sales",
+    "kind": "workspace",
+    "source": "exec-c34f14c7-be47-4975-bddd-f02cf09a9f3a.png",
+    "asset": "public/images/districts/sales/workspace.png",
+    "sha256": "0fca64ea542a7e1fe22507464e3a46ce7017a8aee826e71d5c268a936497f7a5"
+  },
+  {
+    "id": "sales",
+    "kind": "interior",
+    "source": "exec-3e7ee642-8d5b-47a0-b8f9-64f5cbb7578a.png",
+    "asset": "public/images/districts/sales/interior.png",
+    "sha256": "bf177b9c5f04ef69c896ca74b19974edb9067ac00ea3b47cb93b57639b74a902"
+  },
+  {
+    "id": "data",
+    "kind": "interior",
+    "source": "exec-8ff58956-5f5b-44ac-afbd-84d0df5f6966.png",
+    "asset": "public/images/districts/data/interior.png",
+    "sha256": "7af9489f3f227ef215e167a57fcc999d5807a4f51a60ad3f503177397e71c109"
+  },
+  {
+    "id": "docs",
+    "kind": "exterior",
+    "source": "exec-a29835f9-6abb-4a67-8220-6f8b0965bdad.png",
+    "asset": "public/images/districts/docs/exterior.png",
+    "sha256": "63a419ba15352bfda7afcc34d361c2a39ff238ffeac07838e2f5b3d0f4656c7b"
+  },
+  {
+    "id": "data",
+    "kind": "workspace",
+    "source": "exec-39230e6e-260f-4101-b5d3-3f0cdcdc9864.png",
+    "asset": "public/images/districts/data/workspace.png",
+    "sha256": "9b034b9e97d08054494bbad9c11949edcce839046ba18ca6e8792d1905e4ab6c"
+  },
+  {
+    "id": "docs",
+    "kind": "interior",
+    "source": "exec-bf9bb590-8a5f-4d00-aa9b-7039fe34a09e.png",
+    "asset": "public/images/districts/docs/interior.png",
+    "sha256": "6da70f93b3472dbd86f80f2a04511ec04ed39741ddaf89f240032e97138256fa"
+  },
+  {
+    "id": "docs",
+    "kind": "workspace",
+    "source": "exec-fe2e3725-9c89-440a-97a5-8c0a38036888.png",
+    "asset": "public/images/districts/docs/workspace.png",
+    "sha256": "5d7c1b77fd1efce1e2f87141abefb1c86663c3956f0f857cefbd138cfe1e986d"
+  },
+  {
+    "id": "startup",
+    "kind": "interior",
+    "source": "exec-3fc605f2-7b0d-4527-aed5-97261736c350.png",
+    "asset": "public/images/districts/startup/interior.png",
+    "sha256": "f4f3a17889146a52b7128b6b7d1cd4f9efeef9eb6ff92c82b508fe83744c8ff3"
+  },
+  {
+    "id": "startup",
+    "kind": "workspace",
+    "source": "exec-627b502c-5a7f-4dce-8cc0-9b66c909501e.png",
+    "asset": "public/images/districts/startup/workspace.png",
+    "sha256": "5643f0b26c9c524fcaad556e05178ed5963612e339574e7e2807bd9f1910175d"
+  },
+  {
+    "id": "startup",
+    "kind": "exterior",
+    "source": "exec-89e98608-6e36-4f91-bbc4-8aa0fabe8d99.png",
+    "asset": "public/images/districts/startup/exterior.png",
+    "sha256": "6d759f2acf5e151c9df12f2ed387cdc3726010747649dbff0dfce355ff09289c"
+  },
+  {
+    "id": "city",
+    "kind": "home",
+    "source": "exec-d4a869ef-c877-4ad2-92ec-663473ce0283.png",
+    "asset": "public/images/city.png",
+    "sha256": "c74339fe8bffc9fdaa95a22381f03ed03e4380c3cb3703c42613d21ec46d34d3"
+  }
+]
